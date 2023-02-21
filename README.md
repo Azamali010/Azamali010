@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Azamali010
-- 👀 I’m interested in ... IOS,SwiftUI(In Future...!)
+- 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ...DSA With Java
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... azamali07711@gmail.com
