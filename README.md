@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.shutterstock.com/shutterstock/photos/2201888655/display_1500/stock-vector-mobile-app-development-process-abstract-concept-vector-illustration-set-react-native-mobile-app-2201888655.jpg))](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.shutterstock.com/shutterstock/photos/2201888655/display_1500/stock-vector-mobile-app-development-process-abstract-concept-vector-illustration-set-react-native-mobile-app-2201888655.jpg))]
 <h1 align="center">Hi 👋, I'm Azam Ali</h1>
 <h3 align="center">A passionate Android Application developer from India</h3>
 
