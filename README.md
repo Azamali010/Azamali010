@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Android Application developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+<img align="right" alt="Coding" width="400" src="[https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjh_FTzgRIuigXmF-VTMR1xN9dGgimhb5lobWutE4ZPbtPI2IYbr2kMqzi3MYCw3AZWg&usqp=CAU)">
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt9FNQ7JSDI1oaWsCD8zQ7_7ZhmMulPgtDXnEb1CTvUFfy0QFX4HVgqoPqZ0U7jWU00mQ&usqp=CAU)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azamali010&label=Profile%20views&color=0e75b6&style=flat" alt="azamali010" /> </p>
