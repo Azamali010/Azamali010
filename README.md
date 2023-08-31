@@ -1,4 +1,3 @@
-<img align="right" alt="Coding" width="400" height="300" src="https://developer.android.com/static/images/mad/mad-header.gif">
 <h1 align="center">Hi 👋, I'm Azam Ali</h1>
 <h3 align="center">A passionate Android Application developer from India</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
