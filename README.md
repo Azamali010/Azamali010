@@ -1,5 +1,6 @@
 <h1>Hi 👋</h1>
-<h3>I'm Azam Ali, a dedicated Android developer with a strong foundation in Kotlin, Retrofit, Jetpack Compose, MVVM, Firebase, and SQLite. I am currently a Mobile Development Trainee at Innobles Smart Technologies Pvt Ltd. My portfolio includes several projects, including MemesApp, EventX, and a Notes application, showcasing my skills in mobile application development.</h3>
+<h3>I'm Azam Ali, a dedicated Android developer with a strong foundation in Kotlin, Retrofit, Jetpack Compose, MVVM, Firebase, and SQLite. I have a passion for creating efficient and user-friendly mobile applications. My portfolio includes several projects, such as MemesApp, EventX, and a Notes application, showcasing my skills in mobile application development.<br/>
+I am constantly exploring new technologies and methodologies to enhance my development process. My experience includes working on cross-functional teams and implementing complex features, ensuring high-quality performance and user experience.</h3>
 
 # Please feel free to explore my repositories and contact me for collaboration or questions.
 <img align="right" alt="Coding" width="300" height="200" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
