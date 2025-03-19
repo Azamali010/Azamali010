@@ -1,6 +1,14 @@
 <h1>Hi 👋</h1>
-<h3>I'm Azam Ali, a dedicated Android developer with a strong foundation in Kotlin, Retrofit, Jetpack Compose, MVVM, Firebase, and SQLite. I have a passion for creating efficient and user-friendly mobile applications. My portfolio includes several projects, such as MemesApp, EventX, and a Notes application, showcasing my skills in mobile application development.<br/>
-I am constantly exploring new technologies and methodologies to enhance my development process. My experience includes working on cross-functional teams and implementing complex features, ensuring high-quality performance and user experience.</h3>
+<h3>
+  I'm Azam Ali, a dedicated Frontend Developer with expertise in <b>React.js, JavaScript, HTML, CSS, and Redux</b>.  
+  I specialize in building responsive, dynamic, and user-friendly web applications with modern UI frameworks.  
+  <br/><br/>
+  My experience includes developing reusable React components, implementing API integrations, and optimizing web performance.  
+  I am passionate about creating seamless user experiences and continuously improving my development skills.  
+  <br/><br/>
+  I enjoy exploring new technologies and best practices to enhance my workflow and deliver high-quality applications.
+</h3>
+
 
 # Please feel free to explore my repositories and contact me for collaboration or questions.
 <img align="right" alt="Coding" width="300" height="200" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
