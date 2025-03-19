@@ -20,9 +20,9 @@
 
 <p align="left"> <a href="https://twitter.com/azam_ali190" target="blank"><img src="https://img.shields.io/twitter/follow/azam_ali190?logo=twitter&style=for-the-badge" alt="azam_ali101" /></a> </p>
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Android Development, Kotlin**
+- 🌱 I’m currently learning **Full Stack Development, React.ja, JavaScript Core Java, Node.js **
 
 - 📫 How to reach me **azamali07711@gmail.com**
 
